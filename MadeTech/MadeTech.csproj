@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="MadeTech.Test\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="MadeTech.Test\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="MadeTech.Test\**" />
+    </ItemGroup>
+
+</Project>

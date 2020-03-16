@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeTech", "MadeTech\MadeTech.csproj", "{1F69144D-6317-4EC7-8C99-D110C3F7F7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeTech.Test", "MadeTech.Test\MadeTech.Test.csproj", "{FAD40A48-B114-4C2B-9CC1-AB3FB24C5E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F69144D-6317-4EC7-8C99-D110C3F7F7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F69144D-6317-4EC7-8C99-D110C3F7F7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F69144D-6317-4EC7-8C99-D110C3F7F7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F69144D-6317-4EC7-8C99-D110C3F7F7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD40A48-B114-4C2B-9CC1-AB3FB24C5E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD40A48-B114-4C2B-9CC1-AB3FB24C5E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD40A48-B114-4C2B-9CC1-AB3FB24C5E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD40A48-B114-4C2B-9CC1-AB3FB24C5E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
